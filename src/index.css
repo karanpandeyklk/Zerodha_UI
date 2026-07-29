@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link{
+  margin-left: 40px;
+}
+.footer-link a{
+  text-decoration: none;
+}
+#supportHero{
+  background-color: rgb(56,126,209);
+  color:white;
+}
+.textwrite{
+  margin-left: 140px;
+  width:600px;
+}
+.featuredtype{
+  margin-left:141px;
+}
+.atsign{
+  border: 6px solid black;
+  border-radius: 10px;
+  /* border-color:rgb(56,126,209) ;
+   */
+   border-bottom: 20ex;
+   border-right: 20ex;
+   border-color: blanchedalmond;
+   border-top-left-radius: 80px;
+}
+#supportHero a{
+  color:white;
+  text-decoration: none;
+}
+#supportWrapper{
+  display:flex;
+  height:50px;
+  justify-content: space-between;
+  margin : 0 150px;
+}
+#Up{
+  color:rgb(56,126,209);
+  
+}
+
+#supportHero input{
+  padding:20px 50px;
+  width:100%;
+  font-size:20px;
+  border-radius: 10px;
+  border:none;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
