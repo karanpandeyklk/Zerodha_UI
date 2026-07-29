@@ -9,7 +9,7 @@ function Team() {
             </div>
             <div className='row p-5  fs-6' style={{ lineHeight: "1.8", fontSize: "1.2rem" }}>
                 <div className='col-lg-6 col-md-6 col-sm-12 p-5 text-center '>
-                    <img src='media/images/karanpic2.jpeg' style={{ borderRadius: "100%", height: "300px", width: "300px" }} />
+                    <img src='/media/images/karanpic2.jpeg' style={{ borderRadius: "100%", height: "300px", width: "300px" }} />
                     <h4 className='mt-4'>Karan pandey</h4>
                     <h6>MERN Developer & Project Creator</h6>
                 </div>
