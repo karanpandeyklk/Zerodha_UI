@@ -7,7 +7,7 @@ function CreateTicket() {
                     To create a ticket, select a relevant topic
                 </h1>
 
-                <div className='col-4 p-5 mt-5  mb-5'>
+                <div className='col-lg-4 col-md-6 col-sm-12 p-2 mt-5  mb-5'>
                     <h4 className='' >
                         <i className='fa fa-plus-circle' aria-hidden="true"></i> Account Opening
                     </h4>
@@ -21,7 +21,7 @@ function CreateTicket() {
                     <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>Getting Started</a><br></br>
                 </div>
 
-                <div className='col-4 p-5 mt-5  mb-5'>
+                <div className='col-lg-4 col-md-6 col-sm-12 p-2 mt-5  mb-5'>
                     <h4 className='' >
                         <i class="fa-regular fa-circle-user"></i> Your Zerodha Account
                     </h4>
@@ -33,7 +33,7 @@ function CreateTicket() {
                     
                 </div>
 
-                <div className='col-4 p-5 mt-5  mb-5'>
+                <div className='col-lg-4 col-md-6 col-sm-12 p-2 mt-5  mb-5'>
                     <h4 className='' >
                         <i class="fa-solid fa-arrow-trend-up"></i> Your Zerodha Account
                     </h4>

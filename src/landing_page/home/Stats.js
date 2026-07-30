@@ -3,7 +3,7 @@ function Stats() {
     return ( 
         <div className='container p-3'>
             <div className='row'>
-                <div className='col-6 p-5'>
+                <div className='col-lg-6 col-sm-12 col-md-6 p-5'>
                     <h1 className='fs-2 mb-5'>Trust with confidence</h1>
                     <h2 className='fs-4'>Customer-first always</h2>
                     <p className='text-muted'>That's why 1.3+ crore customers trust Zerodha with & 3.5 + lakh crores worth of  equity investments.</p>
@@ -21,8 +21,8 @@ function Stats() {
 
                     
                 </div>
-                <div className='col-6 p-5'>
-                    <img src='media/images/ecosystem.png' style={{width:"90%"}}/>
+                <div className='col-lg-6 col-md-6 col-sm-12 p-5'>
+                    <img src='media/images/ecosystem.png' style={{width:"100%"}}/>
                     <div className='text-center'>
                         <a href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i className='fa fa-long-arrow-right' aria-hidden="true"></i></a>
                         <a href='' style={{textDecoration:"none"}}>Try Kite demo  <i className='fa fa-long-arrow-right' aria-hidden="true"></i></a>

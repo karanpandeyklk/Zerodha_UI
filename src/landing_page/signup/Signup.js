@@ -4,7 +4,7 @@ function Signup() {
         <div className='container '>
             <h3 className='text-center mt-5 fs-2'>Sign <b id='Up'>Up</b></h3>
             <div className='row mt-5   'style={{justifyContent:"center"}}>
-                <div className='col-md-5 col-sm-12 p-5 atsign'>
+                <div className='col-md-5 col-sm-10 col-lg-5 p-5 atsign'>
             <form> 
 
 <div class="mb-3 fs-4">

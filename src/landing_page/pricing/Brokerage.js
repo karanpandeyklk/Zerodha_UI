@@ -4,7 +4,7 @@ function Brokerage() {
         <div className='container'>
 
             <div className='row p-5  text-center border-top' >
-                <div className='col-8 p-5'>
+                <div className='col-lg-8 col-sm-12 col-md-8'>
                     <a href="" style={{ textDecoration: "none" }}><h3 className='fs-5'>Brokerage Calculator</h3></a>
 
                     <ul style={{textAlign:"left",lineHeight:"2.3",fontSize:"14px"}} className='text-muted'>
@@ -21,7 +21,7 @@ function Brokerage() {
                         Currency - ₹0.05 per lakh + GST of turnover for Futures and ₹2 per lakh + GST of premium for Options.</li>
                     </ul>
                 </div>
-                <div className='col-4 p-5'>
+                <div className='col-lg-4 col-sm-12'>
                     <a href="" style={{ textDecoration: "none" }}><h3 className='fs-5'>List of Charges</h3></a>
                 </div>
 

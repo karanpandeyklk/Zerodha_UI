@@ -21,10 +21,12 @@ code {
 #supportHero{
   background-color: rgb(56,126,209);
   color:white;
+  height:100%;
 }
+
 .textwrite{
-  margin-left: 140px;
-  width:600px;
+  /* margin-left: 10px; */
+  max-width:100%;
 }
 .featuredtype{
   margin-left:141px;
@@ -35,6 +37,7 @@ code {
   /* border-color:rgb(56,126,209) ;
    */
    border-bottom: 20ex;
+   /* width:100%; */
    border-right: 20ex;
    border-color: blanchedalmond;
    border-top-left-radius: 80px;
@@ -42,6 +45,7 @@ code {
 #supportHero a{
   color:white;
   text-decoration: none;
+  
 }
 #supportWrapper{
   display:flex;
@@ -55,7 +59,7 @@ code {
 }
 
 #supportHero input{
-  padding:20px 50px;
+  padding:20px 40px;
   width:100%;
   font-size:20px;
   border-radius: 10px;

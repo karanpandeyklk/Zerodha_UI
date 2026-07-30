@@ -7,10 +7,10 @@ function Team() {
                     People
                 </h1>
             </div>
-            <div className='row p-5  fs-6' style={{ lineHeight: "1.8", fontSize: "1.2rem" }}>
+            <div className='row   fs-6' style={{ lineHeight: "1.8", fontSize: "1.2rem" }}>
                 <div className='col-lg-6 col-md-6 col-sm-12 p-5 text-center '>
                     <img src="/media/images/Karanpic2.jpeg" 
-     style={{ borderRadius:"100%", height:"300px", width:"300px" }} 
+     style={{ borderRadius:"100%", height:"300px", width:"350px" ,maxWidth:"100%"}} 
 />
                     <h4 className='mt-4'>Karan pandey</h4>
                     <h6>MERN Developer & Project Creator</h6>
